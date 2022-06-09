@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tlrn63p++QHWCZXSUfwvK59KrHe+VEUHgn4jKDLY4M0mbIXfxNDwCGXs9vI5WagdP4+1kXM8RMsGY+jjlP9JOg==",
+  "success": true,
+  "projectFilePath": "C:\\Murali\\FSD Capstone Project\\Dot NET Full Stack Developer Capstone Project\\ProjectManagement.Entities\\E-healthcare.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\murali_sigamani\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\murali_sigamani\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\murali_sigamani\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\murali_sigamani\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
